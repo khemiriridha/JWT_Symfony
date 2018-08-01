@@ -14,7 +14,7 @@ Get started
 
 Clone the project:
 ```
-$ git clone https://github.com/chalasr/lexik-jwt-authentication-sandbox
+$ git clone https://github.com/khemiriridha/JWT_Symfony.git
 ```
 
 Install the dependencies:
